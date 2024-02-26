@@ -1,0 +1,2 @@
+# -teaapp-common
+@teaapp/common
